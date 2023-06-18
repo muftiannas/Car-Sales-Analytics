@@ -1,16 +1,16 @@
-# data_scientist_vehicle
-### Tujuan: 
-Menguji tiga hipotesis:
-1. Mencari faktor-faktor yang mempengaruhi harga kendaraan dari parameter umur kendaraan, jarak tempuh, transmission, dan warna kendaraan.
-2. Mencari harga rata-rata setiap jenis kendaraan.
-3. Mencara rata-rata hari untuk iklan yang ditayangkan.
+# Car Sales Analytics
+### Objective:
+Testing three hypotheses:
+1. Look for factors that affect vehicle prices from the parameters of vehicle age, mileage, transmission, and vehicle color.
+2. Find the average price for each type of vehicle.
+3. Calculates the average days for ads served.
 
-### Tahapan:
-Data tentang kendaraan dengan iklan yang ditayangkan disimpan dalam file `/datasets/vehicles_us.csv'.csv`. Data tersebut masih data mentah, perlu diperbaiki kualitas datanya.
+### Stages:
+Data about the vehicles with served ads is stored in the file `/datasets/vehicles_us.csv'.csv`. The data is still raw data, the data quality needs to be improved.
 
- Berikut langkah-langkahnya untuk mencapai tujuan proyek:
- 1. Membaca Data Mentah
- 2. Pra-pemrosesan Data
- 3. Menangani Outlier
- 4. Menguji Data Bersih
+ Following are the steps to achieve the project objectives:
+ 1. Read Raw Data
+ 2. Pre-processing of Data
+ 3. Dealing with Outliers
+ 4. Test Clean Data
 
